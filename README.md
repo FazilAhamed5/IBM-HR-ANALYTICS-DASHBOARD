@@ -1,4 +1,4 @@
-📊 IBM Employee Insights Dashboard
+📊 IBM Employee Insights Dashboard ( Tableau )
 
 This Tableau dashboard provides an analytical view of IBM employee demographics, job roles, salaries, and overall workforce structure.
 It helps understand employee distribution by gender, age, education, job role, and experience.
@@ -33,4 +33,4 @@ The goal of this dashboard is to provide HR and management teams with insights i
 
 👤 Author
 
-Fazil Ahamed ( Fresher Data Analyst )
+Fazil Ahamed - Data Analyst ( Fresher )
